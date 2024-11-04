@@ -1,6 +1,4 @@
-Aqui está um exemplo de um `README.md` para o seu projeto do jogo 2048. Este arquivo explica como o jogo funciona, as instruções para instalação e as teclas de controle.
 
----
 
 ## 2048 Game
 
