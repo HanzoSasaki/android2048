@@ -17,7 +17,7 @@ Neste projeto, você movimenta blocos em uma grade 4x4. Sempre que blocos com o 
 ### 📷 Capturas de Tela
 
 <!-- Inclua capturas de tela aqui, se desejar -->
-<img src="screenshot.png" alt="![image](https://github.com/user-attachments/assets/a4c09db4-73f9-4fca-9f60-63c7cee0694a)">
+<img src="[screenshot.png](https://images.crazygames.com/games/2048/cover_16x9-1707828856995.png?auto=format,compress&q=75&cs=strip)" alt="![image](https://github.com/user-attachments/assets/a4c09db4-73f9-4fca-9f60-63c7cee0694a)">
 
 ### 🚀 Funcionalidades
 
