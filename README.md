@@ -14,10 +14,7 @@ Acesse uma versão ao vivo do jogo [aqui](#https://hanzosasaki.github.io/android
 
 Neste projeto, você movimenta blocos em uma grade 4x4. Sempre que blocos com o mesmo valor colidem, eles se combinam em um único bloco com o valor somado. O jogo termina quando você chega no bloco **2048** ou quando não há mais movimentos possíveis.
 
-### 📷 Capturas de Tela
 
-<!-- Inclua capturas de tela aqui, se desejar -->
-<img src="[screenshot.png](https://images.crazygames.com/games/2048/cover_16x9-1707828856995.png?auto=format,compress&q=75&cs=strip)" alt="![image](https://github.com/user-attachments/assets/a4c09db4-73f9-4fca-9f60-63c7cee0694a)">
 
 ### 🚀 Funcionalidades
 
