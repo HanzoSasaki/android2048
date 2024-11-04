@@ -4,10 +4,6 @@
 
 Este é um clone do clássico jogo 2048, onde o objetivo é combinar blocos de mesmo valor para chegar ao bloco de número **2048**! O jogo foi desenvolvido usando HTML, CSS e JavaScript.
 
-### 🎮 Demo
-
-Acesse uma versão ao vivo do jogo [aqui](#https://hanzosasaki.github.io/android2048/) (adicione o link se você hospedar o jogo em algum lugar).
-
 ### 📝 Sobre o Projeto
 
 Neste projeto, você movimenta blocos em uma grade 4x4. Sempre que blocos com o mesmo valor colidem, eles se combinam em um único bloco com o valor somado. O jogo termina quando você chega no bloco **2048** ou quando não há mais movimentos possíveis.
